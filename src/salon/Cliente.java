@@ -6,7 +6,6 @@
 package salon;
 
 import java.util.Date;
-
 /**
  *
  * @author Hemihundias
